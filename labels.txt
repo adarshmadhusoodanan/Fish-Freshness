@@ -1,0 +1,3 @@
+0 fresh 
+1 highly fresh
+2 not fresh
